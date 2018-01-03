@@ -7,7 +7,7 @@ Modules required: requests, Regular Expression, datetime, MySQLdb(If you need)<b
 
 # How to use: 
 First, you have to edit config.py to configurate the program before you use. <br>
-Then, execute run.py\n
+Then, execute run.py<br>
 
 # If you still do not know how to use it, 
 Just Email me, and maybe I can help you. i@teenet.me<br>

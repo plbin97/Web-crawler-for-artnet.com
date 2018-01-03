@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-#|	When you use this program please run run.py file. 																		  |
-#|	This file is made for MySql connection test, and create a database table for store the data. 							  |
+#|	When you use this program please run run.py file.                                                                         |
+#|	This file is made for MySql connection test, and create a database table for store the data.                              |
 #|	The use of this code follows the Mozilla Public License Version 2.0, for detail: https://www.mozilla.org/en-US/MPL/2.0/   |
 #|----------------------------------------------------------------------------------------------------------------------------|
 # -*- coding: utf-8 -*-

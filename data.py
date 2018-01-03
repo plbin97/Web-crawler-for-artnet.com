@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-#|	When you use this program please run run.py file. 																		  |
-#|	This file is used for handling the data catched by engine.py 															  |
-#|	Also, this file support the storage of data into file or into database													  |
+#|	When you use this program please run run.py file.                                                                         |
+#|	This file is used for handling the data catched by engine.py                                                              |
+#|	Also, this file support the storage of data into file or into database                                                    |
 #|	The use of this code follows the Mozilla Public License Version 2.0, for detail: https://www.mozilla.org/en-US/MPL/2.0/   |
 #|----------------------------------------------------------------------------------------------------------------------------|
 # -*- coding: utf-8 -*-

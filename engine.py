@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-#|	When you use this program please run run.py file. 																		  |
-#|	This is the core of this program, so I name it 'engine'. 																  |
-#|	All data catch, url request, and data analysis have been achieved in this python file.									  |
+#|	When you use this program please run run.py file.                                                                         |
+#|	This is the core of this program, so I name it 'engine'.                                                                  |
+#|	All data catch, url request, and data analysis have been achieved in this python file.                                    |
 #|	The use of this code follows the Mozilla Public License Version 2.0, for detail: https://www.mozilla.org/en-US/MPL/2.0/   |
 #|----------------------------------------------------------------------------------------------------------------------------|
 # -*- coding: utf-8 -*-

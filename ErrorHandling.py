@@ -1,8 +1,8 @@
 #-----------------------------------------------------------------------------------------------------------------------------
-#|	 When you use this program please run run.py file. 																		  |
-#|	This file is made for handling the error happened in program, because we are not sure that the program is perfect.		  |
+#|	 When you use this program please run run.py file.                                                                        |
+#|	This file is made for handling the error happened in program, because we are not sure that the program is perfect.        |
 #|	 We would print the log and error into file. After user run the program, they should take a look at the log and see what  |
-#|	data has not been captured yet.																							  |
+#|	data has not been captured yet.                                                                                           |
 #|	 The use of this code follows the Mozilla Public License Version 2.0, for detail: https://www.mozilla.org/en-US/MPL/2.0/  |
 #|----------------------------------------------------------------------------------------------------------------------------|
 # -*- coding: utf-8 -*-

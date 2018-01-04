@@ -28,7 +28,7 @@ def urlReq(flag,lot_id) :
 			web_data = re.sub(r'[\r]+[\n]+[\s]+','',web)
 			web_data = web_data.replace('\r','').replace('\n','').replace('\t','')
 			return web_data
-		except requests.exceptions.ConnectionError :
+		except Exception,e :
 			ErrorHandling.errorOutput(lot_id,'Network Connection Error','Cannot Connect to artnet.com',1)
 			return urlReq(flag + 1,lot_id)
 
